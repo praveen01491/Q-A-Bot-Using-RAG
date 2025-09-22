@@ -1,0 +1,8 @@
+🔗 GitHub Repository (Code):
+https://github.com/praveen01491/Q-A-Bot-Using-RAG
+
+📄 Documentation (PDF):
+https://drive.google.com/file/d/1gbdzYbHRR24YpN25gRQ6687ldTmyhvlG/view?usp=drivesdk
+
+🎥 Demo Video (2–3 minutes):
+https://drive.google.com/file/d/1zb-SMqAp9WcK6YDMLVJhUFpUo1MlvYGp/view?usp=drivesdk
